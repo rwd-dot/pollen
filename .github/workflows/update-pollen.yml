@@ -2,8 +2,11 @@ name: Dagliga pollen-dátu
 
 on:
   schedule:
-    # CAMS forecast er klár umleið kl. 08-11 UTC. Vit koyra 10:00 UTC.
-    - cron: "0 10 * * *"
+    # CAMS forecast er klár umleið kl. 08-11 UTC. Vit koyra fýra ferðir
+    # um dagin (08, 11, 14, 17 UTC), so um ein koyring feilar ella CAMS
+    # er seinur, fanga hinar dagsins dátu. Koyringar, sum ongar broytingar
+    # geva, committa einki.
+    - cron: "0 8,11,14,17 * * *"
   workflow_dispatch: {}   # loyv manuellum koyringum
 
 permissions:
