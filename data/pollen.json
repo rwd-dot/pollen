@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T18:02:42Z",
+  "updated": "2026-08-18T09:19:04Z",
   "source": "Copernicus Atmosphere Monitoring Service (CAMS)",
   "note_fo": "Ókalibrerað modell-mett. Eingin jarðstøð í Føroyum.",
   "note_en": "Uncalibrated model estimate. No ground station in the Faroe Islands.",
@@ -12,50 +12,8 @@
   "forecast": {
     "gras": [
       {
-        "date": "2026-08-17",
-        "peak": 0.62,
-        "level": {
-          "fo": "eingin",
-          "en": "None"
-        },
-        "hours": [
-          {
-            "hour": 0,
-            "value": 0.47
-          },
-          {
-            "hour": 3,
-            "value": 0.43
-          },
-          {
-            "hour": 6,
-            "value": 0.41
-          },
-          {
-            "hour": 9,
-            "value": 0.45
-          },
-          {
-            "hour": 12,
-            "value": 0.62
-          },
-          {
-            "hour": 15,
-            "value": 0.17
-          },
-          {
-            "hour": 18,
-            "value": 0.1
-          },
-          {
-            "hour": 21,
-            "value": 0.01
-          }
-        ]
-      },
-      {
         "date": "2026-08-18",
-        "peak": 0.19,
+        "peak": 0.24,
         "level": {
           "fo": "eingin",
           "en": "None"
@@ -67,36 +25,78 @@
           },
           {
             "hour": 3,
-            "value": 0.04
+            "value": 0.06
           },
           {
             "hour": 6,
-            "value": 0.19
-          },
-          {
-            "hour": 9,
             "value": 0.16
           },
           {
+            "hour": 9,
+            "value": 0.24
+          },
+          {
             "hour": 12,
-            "value": 0.1
+            "value": 0.06
           },
           {
             "hour": 15,
-            "value": 0.02
+            "value": 0.19
           },
           {
             "hour": 18,
-            "value": 0.12
+            "value": 0.17
           },
           {
             "hour": 21,
-            "value": 0.11
+            "value": 0.07
           }
         ]
       },
       {
         "date": "2026-08-19",
+        "peak": 0.45,
+        "level": {
+          "fo": "eingin",
+          "en": "None"
+        },
+        "hours": [
+          {
+            "hour": 0,
+            "value": 0.1
+          },
+          {
+            "hour": 3,
+            "value": 0.05
+          },
+          {
+            "hour": 6,
+            "value": 0.09
+          },
+          {
+            "hour": 9,
+            "value": 0.27
+          },
+          {
+            "hour": 12,
+            "value": 0.45
+          },
+          {
+            "hour": 15,
+            "value": 0.39
+          },
+          {
+            "hour": 18,
+            "value": 0.09
+          },
+          {
+            "hour": 21,
+            "value": 0.01
+          }
+        ]
+      },
+      {
+        "date": "2026-08-20",
         "peak": 0.59,
         "level": {
           "fo": "eingin",
@@ -105,7 +105,7 @@
         "hours": [
           {
             "hour": 0,
-            "value": 0.05
+            "value": 0.0
           },
           {
             "hour": 3,
@@ -117,19 +117,61 @@
           },
           {
             "hour": 9,
-            "value": 0.01
+            "value": 0.12
           },
           {
             "hour": 12,
-            "value": 0.59
+            "value": 0.32
           },
           {
             "hour": 15,
-            "value": 0.3
+            "value": 0.59
           },
           {
             "hour": 18,
-            "value": 0.18
+            "value": 0.47
+          },
+          {
+            "hour": 21,
+            "value": 0.29
+          }
+        ]
+      },
+      {
+        "date": "2026-08-21",
+        "peak": 0.32,
+        "level": {
+          "fo": "eingin",
+          "en": "None"
+        },
+        "hours": [
+          {
+            "hour": 0,
+            "value": 0.2
+          },
+          {
+            "hour": 3,
+            "value": 0.06
+          },
+          {
+            "hour": 6,
+            "value": 0.05
+          },
+          {
+            "hour": 9,
+            "value": 0.15
+          },
+          {
+            "hour": 12,
+            "value": 0.22
+          },
+          {
+            "hour": 15,
+            "value": 0.21
+          },
+          {
+            "hour": 18,
+            "value": 0.32
           },
           {
             "hour": 21,
@@ -138,8 +180,8 @@
         ]
       },
       {
-        "date": "2026-08-20",
-        "peak": 0.33,
+        "date": "2026-08-22",
+        "peak": 0.01,
         "level": {
           "fo": "eingin",
           "en": "None"
@@ -148,48 +190,6 @@
           {
             "hour": 0,
             "value": 0.01
-          },
-          {
-            "hour": 3,
-            "value": 0.01
-          },
-          {
-            "hour": 6,
-            "value": 0.01
-          },
-          {
-            "hour": 9,
-            "value": 0.21
-          },
-          {
-            "hour": 12,
-            "value": 0.22
-          },
-          {
-            "hour": 15,
-            "value": 0.28
-          },
-          {
-            "hour": 18,
-            "value": 0.29
-          },
-          {
-            "hour": 21,
-            "value": 0.33
-          }
-        ]
-      },
-      {
-        "date": "2026-08-21",
-        "peak": 0.3,
-        "level": {
-          "fo": "eingin",
-          "en": "None"
-        },
-        "hours": [
-          {
-            "hour": 0,
-            "value": 0.3
           }
         ]
       }
