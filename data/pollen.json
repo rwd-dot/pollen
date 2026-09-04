@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T17:39:48Z",
+  "updated": "2026-09-04T12:35:56Z",
   "source": "Copernicus Atmosphere Monitoring Service (CAMS)",
   "note_fo": "Ókalibrerað modell-mett. Eingin jarðstøð í Føroyum.",
   "note_en": "Uncalibrated model estimate. No ground station in the Faroe Islands.",
@@ -11,48 +11,6 @@
   },
   "forecast": {
     "gras": [
-      {
-        "date": "2026-09-03",
-        "peak": 0.08,
-        "level": {
-          "fo": "eingin",
-          "en": "None"
-        },
-        "hours": [
-          {
-            "hour": 0,
-            "value": 0.08
-          },
-          {
-            "hour": 3,
-            "value": 0.06
-          },
-          {
-            "hour": 6,
-            "value": 0.01
-          },
-          {
-            "hour": 9,
-            "value": 0.0
-          },
-          {
-            "hour": 12,
-            "value": 0.0
-          },
-          {
-            "hour": 15,
-            "value": 0.0
-          },
-          {
-            "hour": 18,
-            "value": 0.0
-          },
-          {
-            "hour": 21,
-            "value": 0.0
-          }
-        ]
-      },
       {
         "date": "2026-09-04",
         "peak": 0.0,
@@ -97,7 +55,7 @@
       },
       {
         "date": "2026-09-05",
-        "peak": 0.22,
+        "peak": 0.11,
         "level": {
           "fo": "eingin",
           "en": "None"
@@ -113,7 +71,7 @@
           },
           {
             "hour": 6,
-            "value": 0.0
+            "value": 0.01
           },
           {
             "hour": 9,
@@ -121,19 +79,19 @@
           },
           {
             "hour": 12,
-            "value": 0.2
+            "value": 0.06
           },
           {
             "hour": 15,
-            "value": 0.22
+            "value": 0.06
           },
           {
             "hour": 18,
-            "value": 0.12
+            "value": 0.11
           },
           {
             "hour": 21,
-            "value": 0.01
+            "value": 0.02
           }
         ]
       },
@@ -181,6 +139,48 @@
       },
       {
         "date": "2026-09-07",
+        "peak": 0.0,
+        "level": {
+          "fo": "eingin",
+          "en": "None"
+        },
+        "hours": [
+          {
+            "hour": 0,
+            "value": 0.0
+          },
+          {
+            "hour": 3,
+            "value": 0.0
+          },
+          {
+            "hour": 6,
+            "value": 0.0
+          },
+          {
+            "hour": 9,
+            "value": 0.0
+          },
+          {
+            "hour": 12,
+            "value": 0.0
+          },
+          {
+            "hour": 15,
+            "value": 0.0
+          },
+          {
+            "hour": 18,
+            "value": 0.0
+          },
+          {
+            "hour": 21,
+            "value": 0.0
+          }
+        ]
+      },
+      {
+        "date": "2026-09-08",
         "peak": 0.0,
         "level": {
           "fo": "eingin",
